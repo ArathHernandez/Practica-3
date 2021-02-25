@@ -1,2 +1,4 @@
 # Practica-3
 Practica 3 de laboratorio de sistemas avanzados
+
+En un programa de concursos de televisión, hay un juego en el que participan 3 personas. Cada participante  cuenta  con  un interruptor; los interruptores cerrados (posición “ON”) generan un “uno” lógico y los interruptores abiertos (posición “OFF”) generan un “cero” lógico. Por otra parte, hay 4 indicadores (LEDs) en un tablero: A, B, C y D. Un indicador enciende si recibe un “uno” lógico.Tomar en cuenta las siguientes consideraciones:•El indicador A debe encender sólo cuando todos los jugadores posicionen en “ON” sus interruptores.•El indicador B debe encender si y sólo si A está en “OFF”.•El indicador C debe encender si y sólo si dos o más jugadores posicionan en “ON” sus interruptores.•El indicador D debe encender si y sólo si uno o ninguno de los jugadores posicionan en ON sus interruptores.
